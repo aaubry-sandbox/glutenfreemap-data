@@ -1,0 +1,15 @@
+{
+  "name": "bbb",
+  "attestation": "none",
+  "address": [
+    "ddddd"
+  ],
+  "region": "a",
+  "position": {
+    "lat": "0.1",
+    "lng": 0
+  },
+  "categories": [
+    "take-away"
+  ]
+}
