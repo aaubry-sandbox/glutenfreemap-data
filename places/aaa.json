@@ -1,6 +1,6 @@
 {
   "name": "aaa",
-  "attestation": "none",
+  "attestation": "certified",
   "address": [
     "aaa"
   ],
