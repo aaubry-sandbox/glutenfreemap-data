@@ -9,6 +9,9 @@
     "lat": 8.2792419,
     "lng": -2.2358844
   },
+  "description": {
+    "pt": "Teste"
+  },
   "categories": [
     "take-away"
   ]
