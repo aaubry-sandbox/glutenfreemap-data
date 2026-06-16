@@ -1,0 +1,17 @@
+{
+  "name": "La Trattoria",
+  "gid": "ChIJSyuRMHAzGQ0R2TLSnEvPVjE",
+  "attestation": "certified",
+  "address": [
+    "R. Artilharia 1 79",
+    "1250-038 Lisboa"
+  ],
+  "region": "a",
+  "position": {
+    "lat": 38.724543,
+    "lng": -9.15606
+  },
+  "categories": [
+    "restaurant"
+  ]
+}
